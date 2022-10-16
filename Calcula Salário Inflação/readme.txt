@@ -10,7 +10,7 @@ O usuário da aplicação deve escolher uma dentre três opções:
 - Comparar e listar a porcentagem de crescimento salarial com a inflação(IPCA)
 
 #Documento de Fluxo
-![Fluxo](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Fluxo](https://github.com/GusGul/Calcula-Salario-x-Inflacao/blob/main/Calcula%20Salário%20Inflação/Documento%20de%20Fluxo.png)
 
 # Tecnologias utilizadas
 ##Back end
